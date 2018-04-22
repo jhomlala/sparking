@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: sparking
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: user
+Implementation-Vendor-Id: com.jhomlala
+Build-Jdk: 1.8.0_73
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/sparking
+Created-By: Maven Integration for Eclipse
+
